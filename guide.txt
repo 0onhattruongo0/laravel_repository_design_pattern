@@ -1,0 +1,4 @@
+-Phải đăng ký trong AppServiceProvider.php
+
+có thể sử dụng package:
+Link Package: https://github.com/yaza-putu/laravel-repository-with-service
